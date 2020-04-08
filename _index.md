@@ -7,10 +7,10 @@ draft: false
 Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es geht auf dem aktuellen Stand zu halten. Diese Sammlung ist durch unsere Arbeit im [C3 CERT](https://twitter.com/c3cert) entstanden.
 
 Stand: 23.03.2020 - 17:30Uhr
-* [Allgemein](/collection/allgemein)
-* [Hotlines](/collection/helplines)
-* [Erlasse der Großstädte](/collection/erlasse_grossstadt)
-* [Ausgangsbeschränkungen](/collection/ausgangsbeschraekungen)
+* [Allgemein](/cert-bulletins-information/allgemein)
+* [Hotlines](/cert-bulletins-information/helplines)
+* [Erlasse der Großstädte](/cert-bulletins-information/erlasse_grossstadt)
+* [Ausgangsbeschränkungen](/cert-bulletins-information/ausgangsbeschraekungen)
 
 ### Metadaten des Blogs
 * [Kategorien dieses Blogs](/categories/)
