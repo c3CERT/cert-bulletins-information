@@ -70,6 +70,8 @@ Prophylaxe / Maßnahmen
 -   [Umgang mit Personal der kritischen Infrastruktur in Situationen mit relevantem Personalmangel im Rahmen der COVID-19-Pandemie des RKI ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Personal_KritIs.html)
 -   [Optionen zum Management von Kontaktpersonen unter Personal von Alten- und Pflegeeinrichtungen in Situationen mit Personalmangel vom RKI ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Personal_Pflege.html)
 -   [Umfangreiche und stetig aktualisierte Zusammenstellung von Vorgehensweisen und Techniken ](https://m4mvscovid.de/)
+-   [DMaßnahmen im Rahmen von Geburt und Schwangerschaftsnachsorge mit CoViD-19-Infektion oder -Verdacht ](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1709688)
+-   [Die American Heart Association (AHA) et al geben spezifisch für CoViD-19-Patienten angepasste Richtlinien zur Reanimation/ALS heraus ](https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.120.047463)
 
 Diagnostik
 ----------
@@ -85,6 +87,8 @@ Diagnostik
 -   [Um die Testkapazität der PCR-Testung weiter zu erhöhen, wird u.a. eine gepoolte Testung, analog des Blutspendewesens diskutiert ](https://www.aerzteblatt.de/nachrichten/111552/Proben-Pooling-Neues-Verfahren-soll-schnellere-SARS-CoV-2-Testung-ermoeglichen)
 -   [IL-6 könnte in einem frühen Stadium signifikante Aussagen über einen zu erwartenden schweren Verlauf treffen und sich damit für eine Intensiv-Triage eignen ](https://www.medrxiv.org/content/10.1101/2020.04.01.20047381v1?rss=1%22)
 -   [Radiologischer Bildatlas von Radiopaedia (Röntgen, CT und Sonographie) ](https://radiopaedia.org/articles/covid-19-3)
+-   [odell-basierte Schätzung, laut derer die tatsächlichen Infektionszahlen um den Faktor 6 höher liegen als die offiziellen Verlautbarungen ](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltexM)
+-   [Laut einer Single-Center-Studie (n=81) erleiden 25% der Patienten bei schwerem Verlauf von CoViD-19 eine tiefe Beinvenenthrombose ](https://onlinelibrary.wiley.com/doi/abs/10.1111/jth.14830)
 
 Therapie
 --------
@@ -119,6 +123,7 @@ Therapie
 -   [Der Protease-Inhibitor Atazanavir, der nicht Teil der SOLIDARITY-Studie ist, könnte eine Wirksamkeit bei CoViD-19 zeigen (Studie nicht peer-reviewed, Preprint) ](https://www.biorxiv.org/content/10.1101/2020.04.04.020925v1?rss=1%22)
 -   [Die Interferone α und β zeigen in Zellkulturen eine gute Wirkung gegen SARS-CoV-2 und könnten einen wirksamen Therapieansatz bilden (Studie nicht peer-reviewed, Preprint) ](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v1?rss=1%22)
 -   [Fallstudien zur antiviralen Plasma-Übertragung genesener Patienten ](https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e149)
+-   [Erwägungen und Handlungsempfehlungen für den Einsatz von Medikamenten mit bekannter QT-Prolongation bei der Behandlung von CoViD-19 ](https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.120.047521)
 
 Testtherapien / Forschung
 -------------------------
@@ -140,6 +145,15 @@ Testtherapien / Forschung
 -   [Die transmembrane Serinprotease 2 (TMPRSS2) stellt womöglich eine wesentlich wichtigere Rolle als ACE2 bei der Infektion mit SARS-CoV-2 dar ](https://www.medrxiv.org/content/10.1101/2020.03.30.20047878v1?rss=1%22)
 -   [Zusammenfassung der aktuellen Vermutungen bezüglich des Wirkmechanismus des temporären Verlustes des Riechvermögens ](https://www.spektrum.de/news/wie-blockiert-covid-19-den-geruchssinn/1719784)
 -   [Testreihe von Wirkstoffen auf antivirale Eignung gegen SARS-CoV-2 ](https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1?rss=1%22)
+-   [Aktueller Stand der Forschung zu Remdesivir als Therapiemäglicjkeit von CoViD-19 ](https://www.sciencedirect.com/science/article/pii/S2352771420300380?via%3Dihub)
+-   [Retrospektiven Studie mit hoch-signifikanten Anhaltspunkten für eine Wirksamkeit der Antagonisierung von α1-AR-Rezeptoren gefunden, um eine schwere Verlaufsform von CoViD-19 zu vermeiden (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.02.20051565v1)
+-   [Analyse der Immunpharmakologie des Antibiotikums Metronidazol, um den Zytokinsturm im Verlauf einer schweren CoViD-19-Erkrankung abzumildern ](http://journals.sbmu.ac.ir/aaem/index.php/AAEM/article/view/645)
+-   [Diskussion der Therapiemöglichkeiten der disseminierten intravasalen Gerinnungsstörung (DIC) als Folge der mit CoViD-19 verbundenen ARDS ](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jth.14828)
+-   [Immunologischer Vergleich des Spike-Proteins zwischen SARS-CoV-1 und -2, mit Antikörper aus B-Gedächtniszellen von SARS-CoV-1-Überlebenden, welche beide SARS-Viren erkennt ](https://www.biorxiv.org/content/10.1101/2020.04.07.023903v2)
+-   [Ivermectin in vitro hemmt stark die Proliferation von SARS-CoV-2 in menschlichen Zellen (Journal Pre-Proof) ](https://www.sciencedirect.com/science/article/pii/S0166354220302011)
+-   [Retrospektive Studie über die Behandlung von 77 mittelschweren CoViD-19-Fällen mit vernebeltem Arbidol gegenüber vernebeltem Interferon IFN-α2b (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.06.20042580v1)
+-   [Ausführliche Darstellung der Obduktionsergebnissen von Patienten, die an CoViD-19 verstorben waren ](https://www.medrxiv.org/content/10.1101/2020.04.06.20050575v1)
+-   [Ausgleich eines Vitamin-D-Mangels könnte das Risiko einer schweren Verlaufsform signifikant reduzieren (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v1)
 
 Risikofaktoren
 --------------
@@ -153,6 +167,10 @@ Risikofaktoren
 -   [Sterblichkeitsrate des Coronavirus (COVID-19) nach Vorerkrankung im Februar 2020 ](https://de.statista.com/statistik/daten/studie/1102109/umfrage/mortalitaetsrate-des-coronavirus-nach-vorerkrankung/)
 -   [Meta-Analyse zu den Risikofaktoren für einen schweren oder kritischen Verlauf ](https://www.medrxiv.org/content/10.1101/2020.03.30.20047415v1?rss=1%22)
 -   [Studie zur möglichen Gefahr der Übertragung von SARS-CoV-2 durch Blutspenden (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.03.29.20039529v1)
+-   [Systematische Untersuchung zu Co-Infektionen bei hospitalisierten Patienten mit CoViD-19 (Studie nicht peer-reviewed, Preprint) ](https://www.medrxiv.org/content/10.1101/2020.04.06.20052522v1)
+-   [Personal im Gesundheitswesen leidet während der COVID-19-Epidemie deutlich häufiger an schwerer Schlaflosigkeit, Angstzuständen, Depressionen, Somatisierungsstörungen und Zwangssymptomen ](https://www.karger.com/Article/FullText/507639)
+-   [Übergewicht ein erheblicher Risikofaktor für einen schweren Verlauf von CoViD-19 - Studie 1 ](https://onlinelibrary.wiley.com/doi/epdf/10.1002/oby.22831)
+-   [Übergewicht ein erheblicher Risikofaktor für einen schweren Verlauf von CoViD-19 - Studie 2 ](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa415/5818333)
 
 Erlasse
 -------
